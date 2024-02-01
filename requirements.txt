@@ -1,0 +1,7 @@
+transformers==4.27.4
+torch_optimizer==0.3.0
+datasets==2.16.1
+scipy==1.8.1
+scikit-learn==1.2.0
+torch==1.13.1
+optuna==3.0.4
